@@ -1,0 +1,1 @@
+// "ConnectionStrings": {"DefaultConnection": "Host=localhost; Database=BookDb; Username=postgres; Password=postgres"},
